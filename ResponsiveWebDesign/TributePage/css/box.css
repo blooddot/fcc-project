@@ -1,0 +1,83 @@
+/*
+ * @Author 雪糕
+ * @Description 盒子模型css
+ * @Date 2021-02-18 22:16:36
+ * @FilePath \fccProject\TributePage\css\box.css
+ */
+main {
+    background-color: #eeeeee;
+}
+  
+#title-div {
+    color: #4a4a4a;
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+#title {
+    color: #333333;
+}
+
+#img-div {
+    background-color: #ffffff;
+    text-align: center;
+    margin-left: 15px;
+    margin-right: 15px;
+    padding-bottom: 20px;
+}
+
+#image {
+    display: block;
+    width: 100%;
+    margin: auto;
+    padding-left: 10px;
+    padding-right: 10px;
+    max-width: fit-content;
+}
+
+#img-caption {
+    color:#4a4a4a;
+    font-size: 15px;
+}
+
+#tribute-info {
+    margin: auto;
+    color:#4a4a4a;
+    width: 90%;
+    max-width: 560px;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+#tribute-title {
+    color: #333333;
+    font-size: 16px;
+    text-align: center;
+    padding-bottom: 40px;
+}
+
+#tribute-ul {
+    font-size: 14px;
+}
+
+#tribute-saying {
+    color: #333333;
+    font-size: 14px;
+    padding-top: 60px;
+}
+
+li {
+    padding-top: 20px;
+}
+
+#info-div {
+    text-align: center;
+    font-size: 17px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom: 40px;
+}
+
